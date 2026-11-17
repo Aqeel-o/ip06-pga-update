@@ -1,11 +1,60 @@
 {
- "updated": "2026-11-16 13:45 UTC",
+ "updated": "2026-11-17 14:37 UTC",
  "source": "https://github.com/OpenTermsArchive/genai-eu-versions",
  "providers": 12,
  "documents": 63,
- "versions": 1346,
- "latest_change": "2026-11-13",
+ "versions": 1353,
+ "latest_change": "2026-11-17",
  "records": [
+  {
+   "provider": "Google Generative AI Services",
+   "document": "Privacy Policy",
+   "date": "2026-11-17",
+   "commit": "2654ff5",
+   "kind": "policy change"
+  },
+  {
+   "provider": "Perplexity",
+   "document": "Developer Terms",
+   "date": "2026-11-16",
+   "commit": "02f3f7e",
+   "kind": "policy change"
+  },
+  {
+   "provider": "Perplexity",
+   "document": "Acceptable Use Policy",
+   "date": "2026-11-16",
+   "commit": "0d02bcb",
+   "kind": "policy change"
+  },
+  {
+   "provider": "Perplexity",
+   "document": "Data Processor Agreement",
+   "date": "2026-11-16",
+   "commit": "5b3fc39",
+   "kind": "policy change"
+  },
+  {
+   "provider": "Perplexity",
+   "document": "Privacy Policy",
+   "date": "2026-11-16",
+   "commit": "04c1ed3",
+   "kind": "policy change"
+  },
+  {
+   "provider": "Perplexity",
+   "document": "Terms of Service",
+   "date": "2026-11-16",
+   "commit": "a6f3177",
+   "kind": "policy change"
+  },
+  {
+   "provider": "Google Generative AI Services",
+   "document": "Privacy Policy",
+   "date": "2026-11-16",
+   "commit": "43ee520",
+   "kind": "policy change"
+  },
   {
    "provider": "ChatGPT",
    "document": "Acceptable Use Policy",
