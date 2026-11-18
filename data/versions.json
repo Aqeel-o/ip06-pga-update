@@ -1,11 +1,25 @@
 {
- "updated": "2026-11-17 14:37 UTC",
+ "updated": "2026-11-18 14:14 UTC",
  "source": "https://github.com/OpenTermsArchive/genai-eu-versions",
  "providers": 12,
  "documents": 63,
- "versions": 1353,
- "latest_change": "2026-11-17",
+ "versions": 1355,
+ "latest_change": "2026-11-18",
  "records": [
+  {
+   "provider": "Google Generative AI Services",
+   "document": "Privacy Policy",
+   "date": "2026-11-18",
+   "commit": "d7ac68e",
+   "kind": "policy change"
+  },
+  {
+   "provider": "Google Generative AI Services",
+   "document": "Privacy Policy",
+   "date": "2026-11-17",
+   "commit": "a1e068e",
+   "kind": "policy change"
+  },
   {
    "provider": "Google Generative AI Services",
    "document": "Privacy Policy",
