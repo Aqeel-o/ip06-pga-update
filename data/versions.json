@@ -1,11 +1,32 @@
 {
- "updated": "2026-11-23 16:08 UTC",
+ "updated": "2026-11-24 15:58 UTC",
  "source": "https://github.com/OpenTermsArchive/genai-eu-versions",
  "providers": 12,
  "documents": 63,
- "versions": 1361,
- "latest_change": "2026-11-23",
+ "versions": 1364,
+ "latest_change": "2026-11-24",
  "records": [
+  {
+   "provider": "Perplexity",
+   "document": "Acceptable Use Policy",
+   "date": "2026-11-24",
+   "commit": "9b5279e",
+   "kind": "policy change"
+  },
+  {
+   "provider": "Perplexity",
+   "document": "Terms of Service",
+   "date": "2026-11-24",
+   "commit": "132fbf6",
+   "kind": "policy change"
+  },
+  {
+   "provider": "ChatGPT",
+   "document": "Terms of Service",
+   "date": "2026-11-23",
+   "commit": "dde1a66",
+   "kind": "policy change"
+  },
   {
    "provider": "Google Generative AI Services",
    "document": "Privacy Policy",
